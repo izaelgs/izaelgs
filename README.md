@@ -23,6 +23,6 @@ Here are some ideas to get you started:
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=izaelgs&show_icons=true&theme=radical&repo=github-readme-stats" />
   </a>
   <a href="https://github.com/izaelgs/convoychat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=izaelgs&hide=,scss&theme=radical&repo=convoychat" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=izaelgs&hide=html,scss&theme=radical&repo=convoychat" />
   </a>
 </div>
