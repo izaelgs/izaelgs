@@ -1,5 +1,5 @@
 <h1 align="center">
-  Seja bem vindo ao meu mundinho de aventuras tecnológicas.
+  Welcome to my little world.
 </h1>
 
 <div align="center">
