@@ -1,62 +1,6 @@
 <h1 align="center">
   Welcome to my little world.
-
-  admin@DNY064 mobile-front-paciente-v2 % npm start
-
-> dietsystem@0.0.1 start
-> react-native start
-
-(node:3089) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
-(Use `node --trace-deprecation ...` to show where the warning was created)
-info Welcome to React Native v0.74
-info Starting dev server on port 8081...
-
-                        ▒▒▓▓▓▓▒▒
-                     ▒▓▓▓▒▒░░▒▒▓▓▓▒
-                  ▒▓▓▓▓░░░▒▒▒▒░░░▓▓▓▓▒
-                 ▓▓▒▒▒▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▓▓
-                 ▓▓░░░░░▒▓▓▓▓▓▓▒░░░░░▓▓
-                 ▓▓░░▓▓▒░░░▒▒░░░▒▓▒░░▓▓
-                 ▓▓░░▓▓▓▓▓▒▒▒▒▓▓▓▓▒░░▓▓
-                 ▓▓░░▓▓▓▓▓▓▓▓▓▓▓▓▓▒░░▓▓
-                 ▓▓▒░░▒▒▓▓▓▓▓▓▓▓▒░░░▒▓▓
-                  ▒▓▓▓▒░░░▒▓▓▒░░░▒▓▓▓▒
-                     ▒▓▓▓▒░░░░▒▓▓▓▒
-                        ▒▒▓▓▓▓▒▒
-
-
-                Welcome to Metro v0.80.8
-              Fast - Scalable - Integrated
-
-
-info React Native v0.76.5 is now available (your project is running on v0.74.0).
-info Changelog: https://github.com/facebook/react-native/releases/tag/v0.76.5
-info Diff: https://react-native-community.github.io/upgrade-helper/?from=0.74.0
-info For more info, check out "https://reactnative.dev/docs/upgrading?os=macos".
-metro-file-map: Watchman crawl failed. Retrying once with node crawler.
-  Usually this happens when watchman isn't running. Create an empty `.watchmanconfig` file in your project's root folder or initialize a git or hg repository in your project.
-  Error: Watchman error: The watchman connection was closed. Make sure watchman is running for this project. See https://facebook.github.io/watchman/docs/troubleshooting.
-node:events:491
-      throw er; // Unhandled 'error' event
-      ^
-
-Error: The watchman connection was closed
-    at Client.cancelCommands (/Users/admin/mobile-front-paciente-v2/node_modules/fb-watchman/index.js:56:15)
-    at Socket.<anonymous> (/Users/admin/mobile-front-paciente-v2/node_modules/fb-watchman/index.js:132:12)
-    at Socket.emit (node:events:525:35)
-    at endReadableNT (node:internal/streams/readable:1696:12)
-    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
-Emitted 'error' event on WatchmanWatcher instance at:
-    at handleError (/Users/admin/mobile-front-paciente-v2/node_modules/metro-file-map/src/watchers/WatchmanWatcher.js:288:13)
-    at Object.onWatchProject [as cb] (/Users/admin/mobile-front-paciente-v2/node_modules/metro-file-map/src/watchers/WatchmanWatcher.js:102:11)
-    at /Users/admin/mobile-front-paciente-v2/node_modules/fb-watchman/index.js:70:9
-    at Array.forEach (<anonymous>)
-    at Client.cancelCommands (/Users/admin/mobile-front-paciente-v2/node_modules/fb-watchman/index.js:69:8)
-    at Socket.<anonymous> (/Users/admin/mobile-front-paciente-v2/node_modules/fb-watchman/index.js:132:12)
-    [... lines matching original stack trace ...]
-    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
-
-Node.js v23.5.0</h1>
+</h1>
 
 <div align="center">
   <a href="https://github.com/izaelgs">
